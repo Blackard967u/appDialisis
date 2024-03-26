@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
     }
 
-    public String funcionCalcularVolumenDialisisAutomatizada(float superfieCorporal) {
+    public String funcionCalcularVolumenDialisisAutomatizadaFacil(float superfieCorporal) {
         try {
             String result = "";
             if(superfieCorporal<1.55){
